@@ -22,6 +22,10 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
+## Figma Template
+
+This project is based on this [Figma Template](https://www.figma.com/file/h86gUvqUXTKwgr6tVYinLT/React%3A-Design-System-com-Tailwind?type=design&node-id=143-3228&mode=design&t=35Skt9xDLxeOf64a-0)
+
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:

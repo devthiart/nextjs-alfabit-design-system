@@ -16,3 +16,9 @@ export const Primary: StoryObj<ButtonProps> = {
   }
 }
 
+export const Violet: StoryObj<ButtonProps> = {
+  args: {
+    children: 'Button',
+    className: 'theme-violet'
+  }
+}
