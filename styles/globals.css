@@ -87,22 +87,4 @@
     --tertiary: 226, 189, 255;
     --quaternary: 245, 232, 255;
   }
-  
-  /* I needed to use RGB values to modify opacity. 
-     If I use hex values, I will overwrite the tailwind opacity value
-  :root {
-    --primary: #2D5BFF;
-    --secondary: #6284FD;
-    --tertiary: #96ADFF;
-    --quaternary: #ECF0FF;
-    --hover: #1B4AF0;
-    --click: #002ED0;
-  }
-  .theme-violet {
-    --primary: #AF4BFE;
-    --secondary: #BE74F9;
-    --tertiary: #E2BDFF;
-    --quaternary: #F5E8FF;
-  } 
-  */
 }
