@@ -28,21 +28,6 @@ const Button = ({ variant = 'primary', children, className, disabled, ...rest }:
       { children }
     </button>
   )
-  
-  // *** Composition By Component Technique ***
-  // const Btn = (classes: string) => {
-  //   return (
-  //     <button
-  //       className={`${generalStyle} ${classes} ${className}`}
-  //       disabled={disabled}
-  //       {...rest}
-  //     >
-  //       { children }
-  //     </button>
-  //   )
-  // }
-
-  // return Btn(disabled ? 'bg-disabled text-disabled' : 'bg-primary text-white');
 }
 
 export default Button;
